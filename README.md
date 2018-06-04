@@ -21,7 +21,7 @@
 
 ### Clone repository
 ```unix
-$ git clone https://github.com/albertdy/machineproblems.git
+$ git clone https://github.com/albertdy/machineproblems
 ```
 
 ### Installing the Application
